@@ -4,7 +4,6 @@ Calculate IPv4 subnet information.
 
 import ipaddress
 
-
 def calculate_subnet(network_input: str) -> None:
     """Display useful information about an IPv4 network."""
 
